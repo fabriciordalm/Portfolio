@@ -16,6 +16,7 @@ Graduando em Análise e Desenvolvimento de Sistemas. Encontrei na área de dados
     - **Ferramentas:** Visual Studio Code, RStudio, Jupyter Notebook, Google Colab.
     - **Sistemas operacionais:** Windows, Linux.
     - **Outros:** Git, GitHub, Markdown, Ferramentas da Microsoft, Ferramentas do Google.
+  
 - Soft skills
      - Organização
      - Colaboração

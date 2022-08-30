@@ -3,7 +3,7 @@
 ## Sobre mim
 Graduando em Análise e Desenvolvimento de Sistemas. Encontrei na área de dados uma ótima oportunidade para unir meus conhecimentos da área de programação e de exatas. Tenho como objetivo ingressar profissionalmente na area de dados e colocar em prática o que tenho estudado nos últimos anos. 
 
-   - Graduando em Análise e Desenvolvimento de Sistemas
+   - Graduado em Análise e Desenvolvimento de Sistemas
    - Atualmente estudando conceitos estatísticos
    - Utilizo Python, Linux, SQL
    - Interessado em dados, pesquisa, música, política, futebol

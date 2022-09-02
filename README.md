@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-fabriciordalm-red.svg)](https://github.com/fabriciordalm) ![](https://img.shields.io/badge/python-3.8+-blue.svg)
 
 ## Sobre mim
-Graduando em Análise e Desenvolvimento de Sistemas. Encontrei na área de dados uma ótima oportunidade para unir meus conhecimentos da área de programação e de exatas. Tenho como objetivo ingressar profissionalmente na area de dados e colocar em prática o que tenho estudado nos últimos anos. 
+Graduado em Análise e Desenvolvimento de Sistemas. Encontrei na área de dados uma ótima oportunidade para unir meus conhecimentos da área de programação e de exatas. Tenho como objetivo ingressar profissionalmente na area de dados e colocar em prática o que tenho estudado nos últimos anos. 
 
    - Graduado em Análise e Desenvolvimento de Sistemas
    - Atualmente estudando conceitos estatísticos

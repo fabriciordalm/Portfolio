@@ -1,28 +1,30 @@
 [![author](https://img.shields.io/badge/author-fabriciordalm-red.svg)](https://github.com/fabriciordalm) ![](https://img.shields.io/badge/python-3.8+-blue.svg)
 
 ## Sobre mim
-Graduado em Análise e Desenvolvimento de Sistemas. Encontrei na área de dados uma ótima oportunidade para unir meus conhecimentos da área de programação e de exatas. Tenho como objetivo ingressar profissionalmente na area de dados e colocar em prática o que tenho estudado nos últimos anos. 
+Graduado em Análise e Desenvolvimento de Sistemas. Apaixonado por dados e tecnologia, possuo experiência de mais de 2 anos com a linguagem Python para fins acadêmicos e pessoais, atividades práticas como coleta, preparação e análise de dados, visualizações de dados, além de banco de dados, linux e mecanismos de busca fazem parte do meu dia a dia. Considero-me uma pessoa com energia e focada em meus objetivos. Tenho como objetivo ingressar profissionalmente na area de dados e colocar em prática o que tenho estudado nos últimos anos. Amo desafios e estou sempre em busca dos próximos.
 
    - Graduado em Análise e Desenvolvimento de Sistemas
-   - Atualmente estudando conceitos estatísticos
+   - Atualmente estudando inglês
    - Utilizo Python, Linux, SQL
    - Interessado em dados, pesquisa, música, política, futebol
 
 ## Habilidades
 
 - Hard skills
-    - **Linguagens:** Python, SQL.
-    - **Bibliotecas:** Pandas, Numpy, Plotly, Matplotlib, Seaborn.
-    - **Ferramentas:** Visual Studio Code, RStudio, Jupyter Notebook, Google Colab.
-    - **Sistemas operacionais:** Windows, Linux.
-    - **Outros:** Git, GitHub, Markdown, Ferramentas da Microsoft, Ferramentas do Google.
+    - **Linguagens:** Python, SQL
+    - **Bibliotecas:** Pandas, Numpy, Plotly, Matplotlib, Seaborn
+    - **Ferramentas:** Visual Studio Code, Databricks, Google Colab
+    - **Computação em nuvem:** AWS (S3, EC2, Glue, Redshift, RDS, Kinesis, Redis, Athena)
+    - **Sistemas operacionais:** Windows, Linux
+    - **Outros:** Git, Ferramentas da Microsoft, Ferramentas do Google
   
 - Soft skills
      - Organização
      - Colaboração
      - Pensamento crítico
+     - Autonomia
+     - Proatividade
      - Flexibilidade
-     - Empatia
 
 ## Projetos
 Aqui poderá ser observado o uso de algumas técnicas e funcionalidades de bibliotecas do Python como análises exploratórias, manipulações de dataframes/séries, visualizações de dados e muito mais.

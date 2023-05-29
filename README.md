@@ -27,7 +27,7 @@ Aqui poderá ser observado o uso de algumas técnicas e funcionalidades de bibli
    <table align="center">
     <tr><td><b>Descrição</a></td><td><b>Link</a></td></tr>
   <tr><td>Uma análise sobre a influência de um blog de uma marca x para que as pessoas venham a comprar produtos em algum momento</a></td><td>https://colab.research.google.com/drive/1cTFUItL-p_LimOw4fOSwvwkNwF5dZ_xT</a></td></tr/>
-  <tr><td>Visualização relacionada ao Desmatamamento da Amazônia (2015-2021)</a></td><td>https://github.com/fabriciordalm/Desmatamento-na-Amazonia</a></td></tr/>
+  <tr><td>Visualização relacionada ao Desmatamento da Amazônia (2015-2021)</a></td><td>https://github.com/fabriciordalm/Desmatamento-na-Amazonia</a></td></tr/>
    </table>
    <br/> 
 
